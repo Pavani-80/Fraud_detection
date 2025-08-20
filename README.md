@@ -47,3 +47,8 @@ Implement real-time fraud scoring
 Trigger step-up authentication (OTP, device check) for high-risk transfers
 Apply velocity checks & limits on large transactions
 Monitor feature drift and retrain regularly
+
+**🛠️ Technologies Used**
+Languages: Python, SQL
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+Tools: Jupyter Notebook, GitHub, Google Colab
